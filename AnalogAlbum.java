@@ -1,3 +1,7 @@
+/**
+ * An Analog Album
+ * @author Connor Downey
+ */
 public interface AnalogAlbum {
     
     public String play();

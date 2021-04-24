@@ -1,3 +1,7 @@
+/**
+ * A Digital Album
+ * @author Connor Downey
+ */
 public interface DigitalAlbum {
     public String playFromBeginning();
     public String playSong(int num);
